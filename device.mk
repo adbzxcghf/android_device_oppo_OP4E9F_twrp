@@ -34,6 +34,6 @@ PRODUCT_USE_DYNAMIC_PARTITIONS := true
 
 # otacert
 PRODUCT_EXTRA_RECOVERY_KEYS += \
-    $(DEVICE_PATH)/security/realme_releasekey
+    $(DEVICE_PATH)/security/oppo_releasekey
 
-TW_DEVICE_VERSION := by VConet
+TW_DEVICE_VERSION := by buildbot

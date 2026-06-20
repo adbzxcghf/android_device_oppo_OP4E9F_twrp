@@ -1,6 +1,9 @@
 # ADB
 ro.adb.secure=0
 
+#ciri
+ro.separate.soft=20127
+
 # Gatekeeper
 vendor.gatekeeper.disable_spu=true
 

@@ -81,7 +81,7 @@ BOARD_RECOVERYIMAGE_PARTITION_SIZE := 134217728
 BOARD_SUPER_PARTITION_SIZE := 9126805504
 BOARD_SUPER_PARTITION_GROUPS := qti_dynamic_partitions
 BOARD_QTI_DYNAMIC_PARTITIONS_SIZE := 9126805504
-BOARD_QTI_DYNAMIC_PARTITIONS_PARTITION_LIST := product vendor system system_ext odm my_bigball my_carrier my_engineering my_heytap my_manifest my_product my_region my_stock
+BOARD_QTI_DYNAMIC_PARTITIONS_PARTITION_LIST := product vendor system system_ext odm
 
 # File systems
 TARGET_USERIMAGES_USE_EXT4 := true

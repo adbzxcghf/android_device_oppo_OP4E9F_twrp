@@ -8,4 +8,4 @@ vendor.gatekeeper.disable_spu=true
 ro.charger.enable_suspend=1
 
 # Device Info
-ro.separate.soft=2065C
+ro.separate.soft=20127

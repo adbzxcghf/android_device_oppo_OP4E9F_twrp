@@ -79,9 +79,7 @@ BOARD_RECOVERYIMAGE_PARTITION_SIZE := 134217728
 
 # Dynamic Partition
 BOARD_SUPER_PARTITION_SIZE := 9126805504
-BOARD_OPPO_DYNAMIC_PARTITIONS_SIZE := 9126805504
-BOARD_OPPO_PARTITION_PARTITION_LIST := product vendor system system_ext odm my_bigball my_carrier my_engineering my_heytap my_manifest my_product my_region my_stock
-BOARD_SUPER_PARTITION_GROUPS := oppo_dynamic_partitions
+BOARD_SUPER_PARTITION_GROUPS := qti_dynamic_partitions
 BOARD_QTI_DYNAMIC_PARTITIONS_SIZE := 9126805504
 BOARD_QTI_DYNAMIC_PARTITIONS_PARTITION_LIST := product vendor system system_ext odm
 

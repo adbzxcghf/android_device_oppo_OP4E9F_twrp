@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_RE811C.mk
+    $(LOCAL_DIR)/twrp_OP4E9F.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_RE811C-eng
+    twrp_OP4E9F-eng
